@@ -1384,5 +1384,20 @@
 		"useCase": "Chatbot",
 		"tags": ["Chatbot", "Conversational", "Language Model"],
 		"free": true
+	},
+	{
+	  "id": 155,
+	  "url": "https://auferet.com",
+	  "name": "Auferet",
+	  "description": "AI game master for solo text adventures and tabletop-style RPGs that remembers your story and reads your uploaded lore.",
+	  "useCase": "AI Game Master",
+	  "tags": [
+	    "Games",
+	    "Roleplay",
+	    "Storytelling",
+	    "RPG",
+	    "Interactive Fiction"
+	  ],
+	  "free": true
 	}
 ]
