@@ -297,6 +297,15 @@
 		"free": true
 	},
 	{
+		"id": 101,
+		"url": "https://remio.ai",
+		"name": "Remio",
+		"description": "Local-first AI memory and knowledge base for searching personal context across files, webpages, recordings, emails, messages, images, and notes.",
+		"useCase": "Productivity",
+		"tags": ["Knowledge Base", "Local-first", "Document Analysis"],
+		"free": true
+	},
+	{
 		"id": 34,
 		"url": "https://nekton.ai",
 		"name": "Nekton AI",
