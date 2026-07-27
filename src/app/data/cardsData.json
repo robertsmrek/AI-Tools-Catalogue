@@ -1399,5 +1399,14 @@
 	    "Interactive Fiction"
 	  ],
 	  "free": true
+	},
+	{
+	  "id": 156,
+	  "url": "https://trygrokai.asia/",
+	  "name": "GPTGeminiGrok.AI",
+	  "description": "Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows.",
+	  "useCase": "Productivity",
+	  "tags": ["GPT", "Gemini", "Grok", "Claude", "Image Generation"],
+	  "free": true
 	}
 ]
