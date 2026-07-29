@@ -1408,5 +1408,14 @@
 	  "useCase": "Productivity",
 	  "tags": ["GPT", "Gemini", "Grok", "Claude", "Image Generation"],
 	  "free": true
+	},
+	{
+	  "id": 157,
+	  "url": "https://wizgenerator.com/tools/story-generator/",
+	  "name": "WizGenerator Story Generator",
+	  "description": "Generate customizable stories from genre, tone, characters, plot details, and length.",
+	  "useCase": "Content Creation",
+	  "tags": ["Storytelling", "Writing", "Creative Writing"],
+	  "free": true
 	}
 ]
