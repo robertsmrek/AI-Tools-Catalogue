@@ -1417,5 +1417,14 @@
 	  "useCase": "Content Creation",
 	  "tags": ["Storytelling", "Writing", "Creative Writing"],
 	  "free": true
+	},
+	{
+	  "id": 158,
+	  "url": "https://github.com/yylo-dev/yylo",
+	  "name": "YYLO",
+	  "description": "Kanban-driven CLI that runs coding agents (Claude Code, Codex, Gemini CLI) in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work.",
+	  "useCase": "Programming",
+	  "tags": ["AI", "Development", "Open Source", "Automation"],
+	  "free": true
 	}
 ]
