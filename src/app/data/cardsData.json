@@ -81,6 +81,15 @@
 		"free": true
 	},
 	{
+		"id": 155,
+		"url": "https://aitoolsradar.com/",
+		"name": "AI Tools Radar",
+		"description": "AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.",
+		"useCase": "Productivity",
+		"tags": ["AI Tools", "Directory", "AI News"],
+		"free": true
+	},
+	{
 		"id": 10,
 		"url": "https://www.jasper.ai/",
 		"name": "Jasper",
