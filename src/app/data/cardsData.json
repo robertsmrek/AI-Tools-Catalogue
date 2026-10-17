@@ -1448,5 +1448,14 @@
 			"Translation"
 		],
 		"free": true
+	},
+	{
+		"id": 160,
+		"url": "https://curlshot.com",
+		"name": "CurlShot",
+		"description": "Screenshot API: send a URL, HTML or Markdown in one HTTP request and get back a PNG, JPEG, WebP, PDF or scrolling video. Includes an MCP server so AI agents can see web pages. Free plan with 100 screenshots a month.",
+		"useCase": "Programming",
+		"tags": ["Screenshot API", "MCP", "Developer Tools", "Automation"],
+		"free": true
 	}
 ]
